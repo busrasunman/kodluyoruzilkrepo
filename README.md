@@ -11,7 +11,7 @@ git clone https://github.com/busrasunman/kodluyoruzilkrepo.git
 ```
 ## Usage
 
-Prpjeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
